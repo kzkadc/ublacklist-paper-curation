@@ -3,3 +3,5 @@
 *://paperreading.club/*
 *://www.catalyzex.com/*
 *://deepai.org/*
+*://deeplearn.org/*
+*://arxiv-sanity-lite.com/*
